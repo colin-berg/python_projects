@@ -1,2 +1,2 @@
 # python_projects
-python projects completed through codecademy 
+python projects mass repo
