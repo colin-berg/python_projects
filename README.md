@@ -5,6 +5,7 @@ Learning progress overview:
 _Week 1-2_: Learned about data types, data structures, conditional statements and loops. Learned how to manipulate the data structures with data
 >> * Data Types/Variables: String, Integer, Float, Boolean 
 >> * Data Structures: List/Array, Dictionary, Tuples, and Sets
+>> * Overall pretty basic concepts. I took a python and database course in college so a lot of this was just a refresher for me. 
 
 _Week 3-4_: Learned function arguments, namespace/scope, object-oriented programming (class structure) and unit testing 
 >> * function arguments were really easy to grasp 
