@@ -1,4 +1,4 @@
-# this code uses pointers to search through an array and find how much water is stored based on left/right bounds
+# this code uses left and right pointers to iterate through an array, reducing the big O runtime to linear O(N)
 
 def efficient_solution(heights):
   total_water = 0
