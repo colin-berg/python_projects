@@ -21,10 +21,11 @@ _Week 5: Worked on a code interview question focused on object oriented programm
 >> * Findings: I initially started to read the input data into a nested list, and begin creating one main function/method inside of the a trip class that would calculate all of the required output data. This proved to be limiting and my class structure was really poor at first. I then talked with one of my friends who is a senior developer and he gave me some tips and suggested that I make my code more modular and break down some of the trip calcuations into their own methods inside of the trips class. I then went back and created a driver class as well to modulate more of my code. By building out the class structure and creating more methods, I was able to abstract away the unneccessary data/calculations that were originally inside of my main trip function and encapsulate the data and their respective functions into a more logical approach.   
 
 
-_Week 6: Worked on Advanced Python Learning Modules
+_Week 6-8: Worked on Advanced Python Learning Modules
 >> * Linear Data Structures 
-	* Linked Lists, Doubley Linked Lists, Searching Arrays, Queues, Stacks
-	* Linked Lists were extremely cumbersom to set up and the application of them seems relatively niche (i.e. GPS functionality)
-	* Queues and Stacks were easy to grasp in concept (video game queues when servers are overloaded). They were a bit tricky to set-up, but it became easier with more practice. I understand the application of stacks for say a stack of weights at a gym, but struggle to grasp the variety of application in a software environment. My guess is certain algorithms make use of a stack data structure for the last in, first out approach. 
+>> 	*Linked Lists, Doubley Linked Lists, Searching Arrays, Queues, Stacks
+>>  	* Linked Lists were extremely cumbersom to set up and the application of them seems relatively niche (i.e. GPS functionality)
+>>  	* Queues and Stacks were easy to grasp in concept (video game queues when servers are overloaded). They were a bit tricky to set-up, but it became easier with more practice. I understand the application of stacks for say a stack of weights at a gym, but struggle to grasp the variety of application in a software environment. My guess is certain algorithms make use of a stack data structure for the last in, first out approach. 
 >> * Hash Maps
- 	* 
+>> * Went over algorithmic concepts such as recursion and asymptotic notation (Big O Runtime) 
+>> * Non-Linear Data Structures: Trees, Binary Search Trees, Heaps
