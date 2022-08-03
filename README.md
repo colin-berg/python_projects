@@ -22,5 +22,9 @@ _Week 5: Worked on a code interview question focused on object oriented programm
 
 
 _Week 6: Worked on Advanced Python Learning Modules
->> * Learned about linear data structures 
-  >> * Linked Lists, Doubley Linked Lists, Searching Arrays, Queues, Stacks
+>> * Linear Data Structures 
+	* Linked Lists, Doubley Linked Lists, Searching Arrays, Queues, Stacks
+	* Linked Lists were extremely cumbersom to set up and the application of them seems relatively niche (i.e. GPS functionality)
+	* Queues and Stacks were easy to grasp in concept (video game queues when servers are overloaded). They were a bit tricky to set-up, but it became easier with more practice. I understand the application of stacks for say a stack of weights at a gym, but struggle to grasp the variety of application in a software environment. My guess is certain algorithms make use of a stack data structure for the last in, first out approach. 
+>> * Hash Maps
+ 	* 
